@@ -1,5 +1,5 @@
 This is a collaborative work at the High Performance Computing Laboratory, IIT Kanpur. <br />
-[Grid sensitivity and role of error in computing a lid-driven cavity problem] (https://doi.org/10.1103/PhysRevE.99.013305)
+[Grid sensitivity and role of error in computing a lid-driven cavity problem](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.013305)
 <br />
 ![Model](https://github.com/siva-viknesh/Computational_Fluid_Mechanics/blob/main/Lid_Driven_Cavity_Flow/Figure.png)
 
