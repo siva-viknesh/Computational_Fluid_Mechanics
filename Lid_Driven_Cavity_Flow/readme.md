@@ -1,4 +1,4 @@
-This is a collaborative work at the High Performance Computing Laboratory, IIT Kanpur. <br />
+This collaborative work was done at the High-Performance Computing Laboratory, IIT Kanpur. <br />
 [Grid sensitivity and role of error in computing a lid-driven cavity problem, V. K. Suman, Siva Viknesh S., Mohit K. Tekriwal, Swagata Bhaumik, and Tapan K. Sengupta
 Phys. Rev. E 99, 013305 – Published 16 January 2019](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.013305)
 <br />
